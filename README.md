@@ -1,5 +1,13 @@
 # Marketing Performance Analytics
 
+## Aplicação Online
+
+🚀 Acesse o dashboard publicado:
+
+**https://lucasvieiraperformanceanalytic.streamlit.app/**
+
+---
+
 ## Visão Geral
 
 O Marketing Performance Analytics é um projeto desenvolvido para simular uma operação real de análise de campanhas digitais.
@@ -7,8 +15,6 @@ O Marketing Performance Analytics é um projeto desenvolvido para simular uma op
 O objetivo é transformar dados de marketing em informações estratégicas para apoiar decisões de investimento em mídia paga.
 
 A aplicação permite analisar campanhas por plataforma, tipo de campanha, indústria e país, utilizando Python, Pandas, Streamlit e Plotly.
-
----
 
 ## Objetivo de Negócio
 
